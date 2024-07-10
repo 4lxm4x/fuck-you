@@ -28,7 +28,7 @@ export default function MainCard() {
           alt=""
         />
       </Box>
-      <Typography>
+      <Typography fontSize="xl">
         Лауреат міжнародних конкурсів майстрів на всі руки
       </Typography>
 
