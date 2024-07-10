@@ -5,7 +5,7 @@ import Box from '@mui/system/Box';
 
 export default function MainCard() {
   return (
-    <Card variant="outlined" sx={{ margin: 10, backgroundColor: 'lightblue' }}>
+    <Card variant="outlined" sx={{ margin: 5, backgroundColor: 'lightblue' }}>
       <Typography level="h1">Чи знали ви що?</Typography>
       <Typography level="h2" fontSize="xl" sx={{ mb: 0.5 }}>
         10 липня
@@ -19,8 +19,7 @@ export default function MainCard() {
         {/* <AspectRatio> */}
         <img
           style={{
-            height: '50%',
-            width: '50%',
+            width: '80%',
             padding: '10px',
           }}
           src={require('../img/photo1.jpg')}
