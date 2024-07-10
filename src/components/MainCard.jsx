@@ -35,8 +35,7 @@ export default function MainCard() {
         {/* <AspectRatio> */}
         <img
           style={{
-            height: '80%',
-            width: '40%',
+            width: '80%',
             padding: '10px',
           }}
           src={require('../img/image2.jpeg')}
