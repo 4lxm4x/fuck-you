@@ -1,6 +1,5 @@
-import { AspectRatio, CardOverflow, Typography } from '@mui/joy';
 import Card from '@mui/joy/Card';
-import { padding } from '@mui/system';
+
 import Box from '@mui/system/Box';
 
 export default function MainCard() {
