@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/very-important-news/static/css/main.7acaea2f.css",
+    "main.js": "/very-important-news/static/js/main.07d3183d.js",
+    "index.html": "/very-important-news/index.html",
+    "main.7acaea2f.css.map": "/very-important-news/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/very-important-news/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
