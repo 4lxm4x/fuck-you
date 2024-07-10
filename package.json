@@ -4,6 +4,11 @@
   "private": true,
   "homepage": "https://4lxm4x.github.io/very-important-news/",
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.16.0",
+    "@mui/joy": "^5.0.0-beta.47",
+    "@mui/system": "^5.16.0",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
