@@ -1,3 +1,4 @@
+import { Typography } from '@mui/joy';
 import Card from '@mui/joy/Card';
 
 import Box from '@mui/system/Box';
