@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/very-important-news/static/css/main.7acaea2f.css",
-    "main.js": "/very-important-news/static/js/main.07d3183d.js",
+    "main.js": "/very-important-news/static/js/main.60a24f29.js",
+    "static/media/photo1.jpg": "/very-important-news/static/media/photo1.fc7cb4b0d5e63776ce08.jpg",
     "index.html": "/very-important-news/index.html",
     "main.7acaea2f.css.map": "/very-important-news/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/very-important-news/static/js/main.07d3183d.js.map"
+    "main.60a24f29.js.map": "/very-important-news/static/js/main.60a24f29.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.60a24f29.js"
   ]
 }
