@@ -2,17 +2,12 @@ import MainCard from './MainCard';
 
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-      }}
-    >
-      <MainCard />
-    </div>
+    <>
+      <h1 style={{ fontStyle: 'italic', paddingLeft: 20 }}>
+        {' '}
+        Щотижневик "Вісник компресорщини"
+      </h1>
+      <MainCard />;
+    </>
   );
 };
