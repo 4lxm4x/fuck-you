@@ -6,7 +6,7 @@ import Box from '@mui/system/Box';
 export default function MainCard() {
   return (
     <Card variant="outlined" sx={{ margin: 5, backgroundColor: 'black', height: '80%' }}>
-      <Typography level="h1" align='center' color='white' >FUCK YOU!</Typography>
+      <Typography level="h1" align='center' color='yellow' sx={{paddingTop: '20px'}} >FUCK YOU!</Typography>
       
 
       <Box sx={{ display: 'flex', justifyContent: 'center' }}>
@@ -15,7 +15,8 @@ export default function MainCard() {
           style={{
             width: '80%',
             
-            padding: '50px',
+            paddingTop: '80px',
+            paddingBottom: '80px'
           }}
           src={require('../img/photo1.jpg')}
           loading="lazy"
