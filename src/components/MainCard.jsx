@@ -14,7 +14,8 @@ export default function MainCard() {
         <img
           style={{
             width: '80%',
-            padding: '10px',
+            
+            padding: '50px',
           }}
           src={require('../img/photo1.jpg')}
           loading="lazy"
