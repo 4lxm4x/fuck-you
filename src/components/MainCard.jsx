@@ -6,7 +6,7 @@ import Box from '@mui/system/Box';
 export default function MainCard() {
   return (
     <Card variant="outlined" sx={{ margin: 5, backgroundColor: 'black', height: '80%', align: 'center' }}>
-      <Typography level="h1" align='center' color='yellow' sx={{paddingTop: '20px'}} >FUCK YOU!</Typography>
+      <Typography level="h1" align='center' color='yellow' sx={{paddingTop: '20px', align: 'center', color: 'white' }} >FUCK YOU!</Typography>
       
 
       <Box sx={{ display: 'flex', justifyContent: 'center' }}>
