@@ -5,7 +5,7 @@ import Box from '@mui/system/Box';
 
 export default function MainCard() {
   return (
-    <Card variant="outlined" sx={{ margin: 5, backgroundColor: 'black' }}>
+    <Card variant="outlined" sx={{ margin: 5, backgroundColor: 'black', height: '80%' }}>
       <Typography level="h1" align='center' color='white' >FUCK YOU!</Typography>
       
 
